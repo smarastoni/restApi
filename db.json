@@ -23,6 +23,20 @@
       "dateOfPublication": "1591612290"
     }
   ],
+  "PaperworksAbrogation":[
+    {
+      "hexaIdAbs": "08FB20CF5AD75285",
+      "dateOfAbrogation": "1591612290"
+    },
+    {
+      "hexaIdAbs": "34A94029546384C5",
+      "dateOfAbrogation": "1591612290"
+    },
+    {
+      "hexaIdAbs": "03AE08FC5EDE44D5",
+      "dateOfAbrogation": "1591612290"
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
