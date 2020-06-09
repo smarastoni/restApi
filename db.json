@@ -6,7 +6,7 @@
       "03AE08FC5EDE44D5"
     ]
   ],
-  "PaperworkPublication":[
+  "PaperworksPublication":[
     {
       "hexaIdAbs": "03AE08FC5EDE44D5",
       "regulatoryCode": "Id342129o2",
@@ -18,7 +18,7 @@
       "dateOfPublication": "1591612290"
     },
     {
-      "_hexaIdAbs": "08FB20CF5AD75285",
+      "hexaIdAbs": "08FB20CF5AD75285",
       "regulatoryCode": "Idwe242129",
       "dateOfPublication": "1591612290"
     }
