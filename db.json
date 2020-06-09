@@ -1,4 +1,36 @@
 {
+  "PaperworksApproval": [
+    "_hexaIdAbs":"03AE08FC5EDE44D5",
+    "masterLanguage":"1040",
+    "name":"Valutazione Partecipazioni dirette - Group Planning",
+    "regulatoryCode":"Id-12312317",
+    "Architect":"Temporary Admin",
+    "externalReferences":{ 
+      "_hexaIdAbs":"126D1524486A0192",
+      "name":"Data Feeds Report Table (NE)",
+      "url":"\\Intranet\\departmanlar\\Ive Organizasyon\\262_IKINCI_FAZ_DOKUMANLARI\\Project Documentation\\4. Capital Allocation activities in order to drawing up Regulatory Financial Reporting Disclosures"   
+    },
+    "multiprocesso":{
+      "_hexaIdAbsMultiprocesso":"2282274F5ED14962",
+      "procedureMultiprocesso": [
+         "08FB20CF5AD75285",
+         "34A94029546384C5",
+         "03AE08FC5EDE44D5" 
+      ]
+    },
+    "documents":[
+      {
+         "nameDoc":"0202 Law262 Liquidity risk",
+         "type":"Narrative",
+         "_hexaIdAbsDocObj":"3EC292605B33A36C"
+      },
+      {
+         "nameDoc":"9842 Rischio di liquidita', controlli dei limiti e stress test",
+         "type":"Altro",
+         "_hexaIdAbsDocObj":"5D388D0959422531"
+      }   
+   ]
+  ],
   "PaperworksRejected": [    
     "08FB20CF5AD75285",
     "34A94029546384C5",
