@@ -4,15 +4,9 @@
    
   ],
   "PaperworksRejected": [    
-    "21AD257D5EF36991",
-    "64CA83975EFC5FA5"
+    "21AD257D5EF36991"
   ],
   "PaperworksPublication":[
-    {
-      "hexaIdAbs": "21AD257D5EF36991",
-      "regulatoryCode": "Id342129o2",
-      "dateOfPublication": "1593600125000"
-    },
     {
       "hexaIdAbs": "64CA83975EFC5FA5",
       "regulatoryCode": "ID9992829999",
@@ -20,10 +14,6 @@
     }
   ],
   "PaperworksAbrogation":[
-    {
-      "hexaIdAbs": "21AD257D5EF36991",
-      "dateOfAbrogation": "1593600125000"
-    },
     {
       "hexaIdAbs": "64CA83975EFC5FA5",
       "dateOfAbrogation": "1593600125000"
