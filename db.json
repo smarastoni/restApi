@@ -6,13 +6,8 @@
   "PaperworksRejected":[    
     "21AD257D5EF36991"
   ],
-  "PaperworksPublication":[
-    {
-      "_hexaIdAbs": "21AD257D5EF36991",
-      "regulatoryCode": "ID9992829999",
-      "dateOfPublication": "1593600125000"
-    }
-  ],
+  "PaperworksPublication":{"PaperworkPublicationList":[{"_hexaIdAbs":"21AD257D5EF36991","dateOfPublication":1596060000,"regulatoryCode":"ID999282999"}]}
+  
   "PaperworksAbrogation":[
     {
       "_hexaIdAbs": "64CA83975EFC5FA5",
