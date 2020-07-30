@@ -3,17 +3,9 @@
     
    
   ],
-  "PaperworksRejected":[    
-    "21AD257D5EF36991"
-  ],
+  "PaperworksRejected":{"PaperWorkRejected":["21AD257D5EF36991"]},
   "PaperworksPublication":{"PaperworkPublicationList":[{"_hexaIdAbs":"21AD257D5EF36991","dateOfPublication":1596060000,"regulatoryCode":"ID999282999"}]},
-  
-  "PaperworksAbrogation":[
-    {
-      "_hexaIdAbs": "64CA83975EFC5FA5",
-      "dateOfAbrogation": "1593600125000"
-    }
-  ],
+  "PaperworksAbrogation":{"PaperworkAbrogation":[{"_hexaIdAbs":"64CA83975EFC5FA5","dateOfAbrogation":1596096000}]},
   "profile": {
     "name": "typicode"
   }
