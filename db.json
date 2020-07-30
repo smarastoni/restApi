@@ -3,9 +3,9 @@
     
    
   ],
-  "PaperworksRejected": [    
+  "PaperworksRejected":{ PaperworkRejected:[    
     "21AD257D5EF36991"
-  ],
+  ]},
   "PaperworksPublication":[
     {
       "_hexaIdAbs": "21AD257D5EF36991",
